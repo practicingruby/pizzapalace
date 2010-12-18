@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+/*9c2a00*/
+/*#FFFBD0*/
+/*#D6BF86*/
+
+body {
+    background-color: #9C9F84;
+}
+a:visited {
+  color: #000
+}
+a:hover {
+	color: #9C2A00;
+}
+h2 {
+  font-size: 20px;
+  color: #000000;
+  font-weight: lighter;
+}
+h3 {
+  font-size: 25px;
+  color: #000000;
+  margin: 30px;
+  font-weight: lighter;
+}
+p {
+  font-size: 18px;
+}
+#overall {
+  width: 950px;
+  background-color: #D6BF86;
+  margin-right: auto;
+  margin-left:auto;
+}
+#header {
+  height:120px;
+  text-align: center;
+}
+#menubar{
+  float: top;
+  height: 50px;
+  background-color: #FFFBD0;
+  text-align: center;
+}
+#menubar ul{
+  margin: 0px;
+  padding: 0px;
+  padding-top: 8px;
+}
+#menubar li{
+  margin: 0px;
+  padding-top: 10px;
+  display: inline;
+  list-style-type: none;
+}
+#right_panel {
+  float: right;
+  margin: 25px;
+}
+#left_panel {
+ height: 320px;
+ font-size: 35px;
+ margin: 25px;
+}
+#foot {
+  float: bottom;
+  background: url(footer.jpg);
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
+#foot p{
+  color:#FFFBD0;
+  font-family: Century Gothic;
+  font-size: 16px;
+  text-align: center;
+}
+#menubar a {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: #000000;
+	margin: 0px 14px;
+}
+#menubar a:hover {
+	color: #9C2A00;
+}
