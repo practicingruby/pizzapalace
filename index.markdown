@@ -3,7 +3,7 @@ title: Mike's Pizza Palace
 layout: front
 ---
 
-<h3>Pizza Palace in Naugatuck, CT<br/>Family owned and operated since 1978.</h3> 
+<h3>Pizza Palace in Naugatuck, CT<br/>Family owned and operated since 1312.</h3> 
 
 A community favorite for pizza, sandwiches, and more.  Open seven days a week for dine-in or takeout.
     
