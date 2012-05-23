@@ -21,7 +21,9 @@
       </ul>
     </div>
 
-
+    <div id="body">
+      {{content}}
+    </div>
 
     <div id = "foot">
       <p> 28 Church Street, Naugatuck, CT, 06770 
