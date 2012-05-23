@@ -3,6 +3,8 @@ title: Mike's Pizza Palace
 layout: main
 ---
 
+#Pizza
+
 ## Pizza Toppings
 
 * Extra Cheese 
@@ -41,13 +43,19 @@ layout: main
   <td>$8.95</td>
   <td>$11.95</td>
   <td>$15.95</td>
-</tr>
-<tr>
-  <td>Meat Lovers<br/> (meatballs, pepperoni, sausage, bacon, ham)</td>
-  <td>$8.95</td>
-  <td>$13.45</td>
-  <td>$18.95</td> 
-</tr>
+ </tr>
+ <tr>
+   <td>Meat Lovers<br/> (meatballs, pepperoni, sausage, bacon, ham)</td>
+   <td>$8.95</td>
+   <td>$13.45</td>
+   <td>$18.95</td> 
+ </tr>
+ <tr>
+   <td> Greek <br/> (sliced tomatoes, feta cheese, olives, garlic) </td>
+   <td> $7.95 </td>
+   <td> $11.95 </td>
+   <td> $15.95 </td> 
+ </tr>
  <tr>
  <td>White Combo<br/>(sliced tomatoes, spinach, broccoli,ricotta cheese)</td> <td>$7.95</td><td>$11.95</td><td>$15.95</td>
  </tr>
@@ -65,12 +73,13 @@ layout: main
  </tr>
  <tr>
   <td>Mike's Special</td><td>$8.45</td><td>$12.45</td><td>$17.95</td>
+
  </tr>
 </table>
 
 ### Calzones
 
-Available toppings are the same as the pizza toppings.
+Calzone toppings are the same as pizza toppings.
 
 <table>
  <tr>
@@ -100,126 +109,126 @@ Available toppings are the same as the pizza toppings.
 </tr>
 
 <tr>
-      <td>Sausage</td>
-      <td>$4.95</td>
-    </tr>
-    <tr>
-      <td>Eggplant</td>
-      <td>$4.959</td>
-    </tr>
-    <tr>
-      <td>Sausage & Meatball</td>
-      <td>$4.95</td>
-    </tr>
-    <tr>
-      <td>Pastrami</td>
-      <td>$5.45</td>
-    </tr>
-    <tr>
-      <td>Salami</td>
-      <td>$4.95</td>
-    </tr>
-    <tr>
-      <td>Ham</td>
-      <td>$4.95</td>
-    </tr>
-    <tr>
-      <td>Turkey</td>
-      <td>$4.95</td>
-    </tr>
-    <tr>
-      <td>Pepperoni</td>
-      <td>$4.95</td>
-    </tr>
-    <tr>
-      <td>Chicken Parmesan</td>
-      <td>$5.45</td>
-    </tr>
-    <tr>
-      <td>Chicken Cutlet</td>
-      <td>$5.45</td>
-    </tr>
-    <tr>
-      <td>Tuna</td>
-      <td>$5.45</td>
-    </tr>
-    <tr>
-      <td>Italian Combo</td>
-      <td>$5.45</td>
-    </tr>
-    <tr>
-      <td>Gyro</td>
-      <td>$5.45</td>
-    </tr>
-    <tr>
-      <td>Philly Steak</td>
-      <td>$5.95</td>
-    </tr>
-    <tr>
-      <td>Add Extra Meat</td>
-      <td>Additional $1.25</td>
-    </tr>
+  <td>Sausage</td>
+  <td>$4.95</td>
+  </tr>
+  <tr>
+    <td>Eggplant</td>
+    <td>$4.959</td>
+  </tr>
+  <tr>
+    <td>Sausage & Meatball</td>
+    <td>$4.95</td>
+  </tr>
+  <tr>
+    <td>Pastrami</td>
+    <td>$5.45</td>
+  </tr>
+  <tr>
+    <td>Salami</td>
+    <td>$4.95</td>
+  </tr>
+  <tr>
+    <td>Ham</td>
+    <td>$4.95</td>
+  </tr>
+  <tr>
+    <td>Turkey</td>
+    <td>$4.95</td>
+  </tr>
+  <tr>
+    <td>Pepperoni</td>
+    <td>$4.95</td>
+  </tr>
+  <tr>
+    <td>Chicken Parmesan</td>
+    <td>$5.45</td>
+  </tr>
+  <tr>
+    <td>Chicken Cutlet</td>
+    <td>$5.45</td>
+  </tr>
+  <tr>
+    <td>Tuna</td>
+    <td>$5.45</td>
+  </tr>
+  <tr>
+    <td>Italian Combo</td>
+    <td>$5.45</td>
+  </tr>
+  <tr>
+    <td>Gyro</td>
+    <td>$5.45</td>
+  </tr>
+  <tr>
+    <td>Philly Steak</td>
+    <td>$5.95</td>
+  </tr>
+  <tr>
+    <td>Add Extra Meat</td>
+    <td>Additional $1.25</td>
+  </tr>
 </table>
 
-###Sides
-
-<table>
-    <tr>
-      <td>Garlic Bread</td>
-      <td>$1.25</td>
-    </tr>
-    <tr>
-      <td>Garlic Bread w/ cheese</td>
-      <td>$2.25</td>
-    </tr>
-    <tr>
-      <td>Side of sauce</td>
-      <td>50¢</td>
-    </tr>
-    <tr>
-      <td>Side of Meatballs</td>
-      <td>$5.95</td>
-    </tr>
-    <tr>
-      <td>Baked Chicken Wings</td>
-      <td>10 for $6.95</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>15 for $9.95</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>24 for $13.95</td>
-    </tr>
-</table>
-
-###Salads
+### Sides
 
 <table>
 <tr>
-      <td></td>
-      <td>Small</td>
-      <td>Large</td>
-    </tr>
-    <tr>
-      <td>Tossed</td>
-      <td>$3.95</td>
-      <td>$4.95</td>
-    </tr>
-    <tr>
-      <td>Tossed with Chicken</td>
-      <td>$5.45</td>
-      <td>$6.45</td>
-    </tr>
-    <tr>
-      <td>Antipasto</td>
-      <td>$5.45</td>
-      <td>$6.45</td>
-    </tr>
-    <tr>
-      <td>Greek</td>
-      <td>$5.45</td>
-      <td>$6.45</td>
-    </tr>
+  <td>Garlic Bread</td>
+  <td>$1.25</td>
+</tr>
+<tr>
+  <td>Garlic Bread w/ cheese</td>
+  <td>$2.25</td>
+</tr>
+<tr>
+  <td>Side of sauce</td>
+  <td>50¢</td>
+</tr>
+<tr>
+  <td>Side of Meatballs</td>
+  <td>$5.95</td>
+</tr>
+<tr>
+  <td>Baked Chicken Wings</td>
+  <td>10 for $6.95</td>
+</tr>
+<tr>
+  <td></td>
+  <td>15 for $9.95</td>
+</tr>
+<tr>
+  <td></td>
+  <td>24 for $13.95</td>
+</tr>
+</table>
+
+### Salads
+
+<table>
+<tr>
+  <td></td>
+  <td>Small</td>
+  <td>Large</td>
+</tr>
+<tr>
+  <td>Tossed</td>
+  <td>$3.95</td>
+  <td>$4.95</td>
+</tr>
+<tr>
+  <td>Tossed with Chicken</td>
+  <td>$5.45</td>
+  <td>$6.45</td>
+</tr>
+<tr>
+  <td>Antipasto</td>
+  <td>$5.45</td>
+  <td>$6.45</td>
+</tr>
+<tr>
+  <td>Greek</td>
+  <td>$5.45</td>
+  <td>$6.45</td>
+</tr>
 </table>
