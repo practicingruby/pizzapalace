@@ -101,7 +101,6 @@ Calzone toppings are the same as pizza toppings.
 
 (All Grinder 9")
 
-<div>
 <table>
 <tr>
 <td>Meatball<br/>(Homemade Meatballs!)</td><td>$4.70</td>
@@ -109,65 +108,64 @@ Calzone toppings are the same as pizza toppings.
 <tr>
   <td>Sausage</td>
   <td>$4.95</td>
-  </tr>
-  <tr>
-    <td>Eggplant</td>
-    <td>$4.959</td>
-  </tr>
-  <tr>
-    <td>Sausage & Meatball</td>
-    <td>$4.95</td>
-  </tr>
-  <tr>
-    <td>Pastrami</td>
-    <td>$5.45</td>
-  </tr>
-  <tr>
-    <td>Salami</td>
-    <td>$4.95</td>
-  </tr>
-  <tr>
-    <td>Ham</td>
-    <td>$4.95</td>
-  </tr>
-  <tr>
-    <td>Turkey</td>
-    <td>$4.95</td>
-  </tr>
-  <tr>
-    <td>Pepperoni</td>
-    <td>$4.95</td>
-  </tr>
-  <tr>
-    <td>Chicken Parmesan</td>
-    <td>$5.45</td>
-  </tr>
-  <tr>
-    <td>Chicken Cutlet</td>
-    <td>$5.45</td>
-  </tr>
-  <tr>
-    <td>Tuna</td>
-    <td>$5.45</td>
-  </tr>
-  <tr>
-    <td>Italian Combo</td>
-    <td>$5.45</td>
-  </tr>
-  <tr>
-    <td>Gyro</td>
-    <td>$5.45</td>
-  </tr>
-  <tr>
-    <td>Philly Steak</td>
-    <td>$5.95</td>
-  </tr>
-  <tr>
-    <td>Add Extra Meat</td>
-    <td>Additional $1.25</td>
-  </tr>
+</tr>
+<tr>
+  <td>Eggplant</td>
+  <td>$4.959</td>
+</tr>
+<tr>
+  <td>Sausage & Meatball</td>
+  <td>$4.95</td>
+</tr>
+<tr>
+  <td>Pastrami</td>
+  <td>$5.45</td>
+</tr>
+<tr>
+  <td>Salami</td>
+  <td>$4.95</td>
+</tr>
+<tr>
+  <td>Ham</td>
+  <td>$4.95</td>
+</tr>
+<tr>
+  <td>Turkey</td>
+  <td>$4.95</td>
+</tr>
+<tr>
+  <td>Pepperoni</td>
+  <td>$4.95</td>
+</tr>
+<tr>
+  <td>Chicken Parmesan</td>
+  <td>$5.45</td>
+</tr>
+<tr>
+  <td>Chicken Cutlet</td>
+  <td>$5.45</td>
+</tr>
+<tr>
+  <td>Tuna</td>
+  <td>$5.45</td>
+</tr>
+<tr>
+  <td>Italian Combo</td>
+  <td>$5.45</td>
+</tr>
+<tr>
+  <td>Gyro</td>
+  <td>$5.45</td>
+</tr>
+<tr>
+  <td>Philly Steak</td>
+  <td>$5.95</td>
+</tr>
+<tr>
+  <td>Add Extra Meat</td>
+  <td>Additional $1.25</td>
+</tr>
 </table>
-</div>
 
 ### Sides
 
