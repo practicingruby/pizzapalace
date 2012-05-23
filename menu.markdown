@@ -3,7 +3,6 @@ title: Mike's Pizza Palace
 layout: main
 ---
 
-
 ## Pizza Toppings
 
 * Extra Cheese 
