@@ -3,9 +3,7 @@ title: Mike's Pizza Palace
 layout: main
 ---
 
-#Pizza
-
-## Pizza Toppings
+### Pizza Toppings
 
 * Extra Cheese 
 * Sausage 
@@ -103,11 +101,11 @@ Calzone toppings are the same as pizza toppings.
 
 (All Grinder 9")
 
+<div>
 <table>
 <tr>
 <td>Meatball<br/>(Homemade Meatballs!)</td><td>$4.70</td>
 </tr>
-
 <tr>
   <td>Sausage</td>
   <td>$4.95</td>
@@ -169,6 +167,7 @@ Calzone toppings are the same as pizza toppings.
     <td>Additional $1.25</td>
   </tr>
 </table>
+</div>
 
 ### Sides
 
