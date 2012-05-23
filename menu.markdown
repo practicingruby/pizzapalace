@@ -41,19 +41,13 @@ layout: main
   <td>$8.95</td>
   <td>$11.95</td>
   <td>$15.95</td>
- </tr>
- <tr>
-   <td>Meat Lovers<br/> (meatballs, pepperoni, sausage, bacon, ham)</td>
-   <td>$8.95</td>
-   <td>$13.45</td>
-   <td>$18.95</td> 
- </tr>
- <tr>
-    <td> Greek <br/> (sliced tomatoes, feta cheese, olives, garlic) </td>
-    <td> $7.95 </td>
-    <td> $11.95 </td>
-    <td> $15.95 </td> 
- </tr>
+</tr>
+<tr>
+  <td>Meat Lovers<br/> (meatballs, pepperoni, sausage, bacon, ham)</td>
+  <td>$8.95</td>
+  <td>$13.45</td>
+  <td>$18.95</td> 
+</tr>
  <tr>
  <td>White Combo<br/>(sliced tomatoes, spinach, broccoli,ricotta cheese)</td> <td>$7.95</td><td>$11.95</td><td>$15.95</td>
  </tr>
@@ -71,7 +65,6 @@ layout: main
  </tr>
  <tr>
   <td>Mike's Special</td><td>$8.45</td><td>$12.45</td><td>$17.95</td>
-
  </tr>
 </table>
 
