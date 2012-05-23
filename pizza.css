@@ -26,6 +26,10 @@ h3 {
 p {
   font-size: 18px;
 }
+
+table {
+  width: 100%;
+}
 #overall {
   width: 950px;
   background-color: #D6BF86;
